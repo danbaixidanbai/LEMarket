@@ -60,7 +60,7 @@
 				<div class="navbar-form navbar-right">
 				<form action="goods/search" method="post">
 					<div class="form-group">
-						<input type="text" class="form-control" placeholder="iPhone X" name="keyWord"
+						<input type="text" class="form-control" placeholder="党妹同款Lolita" name="keyWord"
 							id="searchKeyWord" />
 					</div>
 					<button class="btn btn-default" type="submit">查找商品</button>

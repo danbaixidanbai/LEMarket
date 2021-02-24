@@ -57,7 +57,7 @@
 				</div>
 			</div>
 			<div class="layui-form-item">
-				<label class="layui-form-label">内存大小</label>
+				<label class="layui-form-label">尺码大小</label>
 				<div class="layui-input-inline">
 					<select name="goodsMemory.memoryId" id="memory" required
 						lay-verify="required" lay-filter="memory">
@@ -148,7 +148,7 @@
    		   type: "POST",
    		   url: "memory/findAll",
    		   success: function(arr){
-	            var str="<option value=''>请选择内存大小</option>";
+	            var str="<option value=''>请选择尺码</option>";
 	            for(var i=0;i<arr.length;i++){
 	               	str=str+"<option value='"+arr[i].memoryId+"'>"+arr[i].memoryName+"</option>";
 	            }

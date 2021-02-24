@@ -72,7 +72,7 @@
 			    </div>			    
 		</div>
 		<div class="layui-form-item">
-			    <label class="layui-form-label">内存大小</label>
+			    <label class="layui-form-label">尺码大小</label>
 			    <div class="layui-input-inline">
 			      <select name="goodsMemory.memoryId" id="memory" required lay-verify="required" lay-filter="memory">
 			      </select>
@@ -181,7 +181,7 @@ var upload;
                         return d.goodsType.typeName
                    	}
                   }
-                   ,{field:'memory', title: '内存', width: 80 ,align: 'center',templet: function(d){
+                   ,{field:'memory', title: '尺码', width: 80 ,align: 'center',templet: function(d){
                         return d.goodsMemory.memoryName
                    	}
                   }
