@@ -255,7 +255,7 @@ div:hover {
 }
 .span16{
 	padding-top:35px;
-	width: 1060px;
+	width: 100%;
     height: auto;
     float: right;
 }

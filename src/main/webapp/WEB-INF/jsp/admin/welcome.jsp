@@ -60,7 +60,7 @@
 		<div class="layui-card-body" id="order" style="width: 480px; height: 260px;"></div>
 	</div>
 	<div class="layui-card" style="width: 600px; height: 310px;float:left;margin-left:15px;">
-		<div class="layui-card-header">手机销量排行</div>
+		<div class="layui-card-header">服装销量排行</div>
 		<div class="layui-card-body" id="volume" style="width: 580px; height: 260px;"></div>
 	</div>
 </body>

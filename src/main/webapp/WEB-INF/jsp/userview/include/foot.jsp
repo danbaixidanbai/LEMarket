@@ -12,7 +12,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>乐享手机商城</title>
+    <title>萌妹子服装商城</title>
     <link href="resources/css/bootstrap.min.css" rel="stylesheet">
     <link href="resources/css/style.css" rel="stylesheet">
     <script src="resources/js/bootstrap.min.js"></script>
@@ -21,9 +21,9 @@
     <!-- 尾部 -->
     <hr/>
     <div class="foot-style">
-      	Copyright © 2017 - 2018  LeGo.com 版权所有|消费者维权热线：4006067733经营证照
+      	Copyright © 2020 - 2021  MengMeiZi.com 版权所有|消费者维权热线：4006067733经营证照
         <br/>
-        	乐享手机商城
+        	萌妹子服装商城
     </div>
     <!-- 结束啦 -->
 
